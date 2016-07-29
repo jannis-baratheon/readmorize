@@ -1,0 +1,21 @@
+﻿/* https://css-tricks.com/text-fade-read-more/ */
+.readmorize-target {
+	position: relative;
+	overflow-y: hidden;
+}
+
+.readmorize-target .readmorize-gradient , .readmorize-target .readmorize-expander-container {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+	width: 100%;
+}
+
+.readmorize-target .readmorize-expander-container {
+    text-align: center;
+}
+
+.readmorize-target .readmorize-gradient {
+	background-image: -moz-linear-gradient(top, transparent, white);
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, transparent), color-stop(1, white));
+}
