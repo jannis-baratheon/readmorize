@@ -13,5 +13,5 @@ $('#your-element').readmorize({
 
 Options:
 
-* overflowAfter: your block will be cut down to this height (in pixels). The overflown content will be hidden and expand only after clicking the *read more* button.
-* step: The number of pixels to expand the block down after *read more* button is clicked. `undefined` means that clicking the link will expand the whole block.
+* `overflowAfter` your block will be cut down to this height (in pixels). The overflown content will be hidden and expand only after clicking the *read more* button.
+* `step` The number of pixels to expand the block down after *read more* button is clicked. `undefined` means that clicking the link will expand the whole block.
