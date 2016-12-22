@@ -1,6 +1,6 @@
 # Readmorize
 
-A JQuery plugin based on [an article on CSS Tricks](https://css-tricks.com/text-fade-read-more/). See the [live demo](http://plnkr.co/3uxlwY) on Plunker!
+A JQuery plugin based on [an article on CSS Tricks](https://css-tricks.com/text-fade-read-more/). [Click here](https://jannis-baratheon.github.io/readmorize/example/) for the live demo.
 
 # Usage
 
