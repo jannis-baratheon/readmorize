@@ -2,7 +2,7 @@
 
 A JQuery plugin inspired by [an article on CSS Tricks](https://css-tricks.com/text-fade-read-more/).
 
-For the live demo [click here](https://jannis-baratheon.github.io/readmorize/example/).
+For the live demo [click here](https://januszwisniowski.it/readmorize/example/).
 
 # Usage
 
